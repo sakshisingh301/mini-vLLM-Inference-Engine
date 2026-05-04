@@ -1,4 +1,4 @@
-# 🚀 Mini vLLM Inference Engine Simulator
+# Mini vLLM Inference Engine Simulator
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Status](https://img.shields.io/badge/Progress-M1%20Complete-brightgreen)
@@ -23,6 +23,9 @@ This project is a **from-scratch simulation of a vLLM-style inference engine**, 
 ## ⚡ What is vLLM?
 
 **vLLM** is a high-performance LLM inference engine designed for **maximum throughput and memory efficiency**.
+
+### Journey of a Prompt
+[![Understanding VLLLM](https://img.youtube.com/vi/HMUZjitt0ts/0.jpg)](https://youtu.be/HMUZjitt0ts)
 
 ### 🔑 Core Ideas
 
