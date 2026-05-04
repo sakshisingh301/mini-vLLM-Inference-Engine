@@ -11,8 +11,8 @@ def generate_fake_requests(num_requests: int, seed: int = 42) -> list[Request]:
         arrival_gap = random.randint(0, 3)
         current_time += arrival_gap
 
-        prompt_length = random.randint(10, 100)
-        max_new_tokens = random.randint(20, 80)
+        prompt_length = random.randint(5, 20)
+        max_new_tokens = random.randint(5, 25)
 
         req = Request(
             request_id=i,

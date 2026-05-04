@@ -10,7 +10,7 @@ class Request:
     max_new_tokens: int
 
     generated_tokens: int = 0
-    status: str = "waiting"
+    status: str = "future"
     start_time: Optional[int] = None
     finish_time: Optional[int] = None
 
